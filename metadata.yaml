@@ -1,0 +1,36 @@
+_repo: Brown-Wolf-and-Other-Jack-London-StoriesChosen-and-Edited-By-Franklin-K.-Mathiews_12336
+_version: 0.0.1
+creator:
+  author:
+    agent_name: London, Jack
+    alias: Chaney, John Griffith
+    birthdate: 1876
+    deathdate: 1916
+    gutenberg_agent_id: '120'
+    url: http://www.gutenberg.org/2009/agents/120
+    wikipedia: http://en.wikipedia.org/wiki/Jack_London
+  editor:
+    agent_name: Mathiews, Franklin K.
+    gutenberg_agent_id: '32033'
+    url: http://www.gutenberg.org/2009/agents/32033
+description: ''
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12336'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Short stories'
+- !lcsh 'Wolves -- Fiction'
+- GITenberg
+tableOfContents: Brown wolf -- That spot -- Trust -- All gold canyon -- The story
+  of Keesh -- Nam-bok the unveracious -- Yellow handkerchief -- Make westing -- The
+  heathen -- The hobo and the fairy -- "Just meat" -- A nose for the king.
+title: 'Brown Wolf and Other Jack London Stories
+
+  Chosen and Edited By Franklin K. Mathiews'
+url: http://www.gutenberg.org/ebooks/12336
